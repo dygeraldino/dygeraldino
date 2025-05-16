@@ -2,10 +2,6 @@
 
 <h3 align="center">Building solutions with clean code and creativity 🚀</h3>
 
-## Profile Visitors Count:
-
-![Visitor Count](https://profile-counter.glitch.me/dygeraldino/count.svg)
-
 ## The Tools Behind My Craft
 
 | **Category**               | **Icons**                                                                                                                                                                                                                                                                                                                                                                                               |
