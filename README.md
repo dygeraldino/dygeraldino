@@ -12,7 +12,3 @@
 | **Database**               | <img src="https://skillicons.dev/icons?i=mongodb" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=mysql" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=postgres" width="42" height="42"/>                                                                                                                                                                         |
 | **Testing**                | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" width="42" height="42"/>                                                                                                                                                                                                                                                                                                 |
 | **Version Control**        | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42"/>                                                                                                                                                                                                                                                                                                          |
-
-# GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=dygeraldino&theme=radical&no-frame=false&no-bg=false&margin-w=4)
